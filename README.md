@@ -1,6 +1,6 @@
 ## First OpenGL Project
 
-[first-opengl-prj](https://github.com/toby-liu-os/first-opengl-prj) is used as an example of simple OpenGL project, which uses vertex and fragment shader to draw triangles.
+[first-opengl-prj](https://github.com/tobyliu-sw/first-opengl-prj) is used as an example of simple OpenGL project, which uses vertex and fragment shader to draw triangles.
 
 ### System environment
 
